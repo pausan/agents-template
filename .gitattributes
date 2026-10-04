@@ -1,0 +1,152 @@
+# Archives
+*.zip    filter=lfs diff=lfs merge=lfs binary
+*.7z     filter=lfs diff=lfs merge=lfs binary
+*.gz     filter=lfs diff=lfs merge=lfs binary
+*.br     filter=lfs diff=lfs merge=lfs binary
+*.rar    filter=lfs diff=lfs merge=lfs binary
+*.tar    filter=lfs diff=lfs merge=lfs binary
+*.tgz    filter=lfs diff=lfs merge=lfs binary
+*.c3p    filter=lfs diff=lfs merge=lfs binary
+
+# Audio
+*.mp3    filter=lfs diff=lfs merge=lfs binary
+*.m4a    filter=lfs diff=lfs merge=lfs binary
+*.ogg    filter=lfs diff=lfs merge=lfs binary
+*.wav    filter=lfs diff=lfs merge=lfs binary
+*.aiff   filter=lfs diff=lfs merge=lfs binary
+*.aif    filter=lfs diff=lfs merge=lfs binary
+*.mod    filter=lfs diff=lfs merge=lfs binary
+*.it     filter=lfs diff=lfs merge=lfs binary
+*.s3m    filter=lfs diff=lfs merge=lfs binary
+*.xm     filter=lfs diff=lfs merge=lfs binary
+
+# Image
+*.jpg    filter=lfs diff=lfs merge=lfs binary
+*.jpeg   filter=lfs diff=lfs merge=lfs binary
+*.png    filter=lfs diff=lfs merge=lfs binary
+*.apng   filter=lfs diff=lfs merge=lfs binary
+*.atsc   filter=lfs diff=lfs merge=lfs binary
+*.gif    filter=lfs diff=lfs merge=lfs binary
+*.bmp    filter=lfs diff=lfs merge=lfs binary
+*.ico    filter=lfs diff=lfs merge=lfs binary
+*.exr    filter=lfs diff=lfs merge=lfs binary
+*.tga    filter=lfs diff=lfs merge=lfs binary
+*.tiff   filter=lfs diff=lfs merge=lfs binary
+*.tif    filter=lfs diff=lfs merge=lfs binary
+*.iff    filter=lfs diff=lfs merge=lfs binary
+*.pict   filter=lfs diff=lfs merge=lfs binary
+*.dds    filter=lfs diff=lfs merge=lfs binary
+*.xcf    filter=lfs diff=lfs merge=lfs binary
+*.leo    filter=lfs diff=lfs merge=lfs binary
+*.kra    filter=lfs diff=lfs merge=lfs binary
+*.kpp    filter=lfs diff=lfs merge=lfs binary
+*.clip   filter=lfs diff=lfs merge=lfs binary
+*.webm   filter=lfs diff=lfs merge=lfs binary
+*.webp   filter=lfs diff=lfs merge=lfs binary
+*.svg    filter=lfs diff=lfs merge=lfs binary
+*.svgz   filter=lfs diff=lfs merge=lfs binary
+*.psd    filter=lfs diff=lfs merge=lfs binary
+*.afphoto filter=lfs diff=lfs merge=lfs binary
+*.afdesign filter=lfs diff=lfs merge=lfs binary
+*.qoi    filter=lfs diff=lfs merge=lfs binary
+*.ai     filter=lfs diff=lfs merge=lfs binary
+*.dwg    filter=lfs diff=lfs merge=lfs binary
+
+# 3D
+*.fbx    filter=lfs diff=lfs merge=lfs binary
+*.obj    filter=lfs diff=lfs merge=lfs binary
+*.max    filter=lfs diff=lfs merge=lfs binary
+*.blend  filter=lfs diff=lfs merge=lfs binary
+*.blender filter=lfs diff=lfs merge=lfs binary
+*.dae    filter=lfs diff=lfs merge=lfs binary
+*.mb     filter=lfs diff=lfs merge=lfs binary
+*.ma     filter=lfs diff=lfs merge=lfs binary
+*.3ds    filter=lfs diff=lfs merge=lfs binary
+*.dfx    filter=lfs diff=lfs merge=lfs binary
+*.c4d    filter=lfs diff=lfs merge=lfs binary
+*.lwo    filter=lfs diff=lfs merge=lfs binary
+*.lwo2   filter=lfs diff=lfs merge=lfs binary
+*.abc    filter=lfs diff=lfs merge=lfs binary
+*.3dm    filter=lfs diff=lfs merge=lfs binary
+*.bin    filter=lfs diff=lfs merge=lfs binary
+*.glb    filter=lfs diff=lfs merge=lfs binary
+
+# Docs
+*.pdf    filter=lfs diff=lfs merge=lfs binary
+*.doc    filter=lfs diff=lfs merge=lfs binary
+*.docx   filter=lfs diff=lfs merge=lfs binary
+*.ppt    filter=lfs diff=lfs merge=lfs binary
+*.pptx   filter=lfs diff=lfs merge=lfs binary
+*.rtf    filter=lfs diff=lfs merge=lfs binary
+*.odt    filter=lfs diff=lfs merge=lfs binary
+*.xls    filter=lfs diff=lfs merge=lfs binary
+*.xlsx   filter=lfs diff=lfs merge=lfs binary
+
+# Fonts
+*.ttc    filter=lfs diff=lfs merge=lfs binary
+*.ttf    filter=lfs diff=lfs merge=lfs binary
+*.otf    filter=lfs diff=lfs merge=lfs binary
+*.font   filter=lfs diff=lfs merge=lfs binary
+*.woff   filter=lfs diff=lfs merge=lfs binary
+*.woff2  filter=lfs diff=lfs merge=lfs binary
+
+# Video
+*.mov    filter=lfs diff=lfs merge=lfs binary
+*.avi    filter=lfs diff=lfs merge=lfs binary
+*.asf    filter=lfs diff=lfs merge=lfs binary
+*.mpg    filter=lfs diff=lfs merge=lfs binary
+*.mpeg   filter=lfs diff=lfs merge=lfs binary
+*.mp4    filter=lfs diff=lfs merge=lfs binary
+*.flv    filter=lfs diff=lfs merge=lfs binary
+*.ogv    filter=lfs diff=lfs merge=lfs binary
+*.wmv    filter=lfs diff=lfs merge=lfs binary
+
+# Executables
+*.slo    filter=lfs diff=lfs merge=lfs binary
+*.lo     filter=lfs diff=lfs merge=lfs binary
+*.o      filter=lfs diff=lfs merge=lfs binary
+*.obj    filter=lfs diff=lfs merge=lfs binary
+*.gch    filter=lfs diff=lfs merge=lfs binary
+*.pch    filter=lfs diff=lfs merge=lfs binary
+*.so     filter=lfs diff=lfs merge=lfs binary
+*.bundle filter=lfs diff=lfs merge=lfs binary
+*.dylib  filter=lfs diff=lfs merge=lfs binary
+*.dll    filter=lfs diff=lfs merge=lfs binary
+*.lai    filter=lfs diff=lfs merge=lfs binary
+*.la     filter=lfs diff=lfs merge=lfs binary
+*.a      filter=lfs diff=lfs merge=lfs binary
+*.lib    filter=lfs diff=lfs merge=lfs binary
+*.exe    filter=lfs diff=lfs merge=lfs binary
+*.out    filter=lfs diff=lfs merge=lfs binary
+*.app    filter=lfs diff=lfs merge=lfs binary
+*.pdb    filter=lfs diff=lfs merge=lfs binary
+*.idb    filter=lfs diff=lfs merge=lfs binary
+*.class  filter=lfs diff=lfs merge=lfs binary
+*.jar    filter=lfs diff=lfs merge=lfs binary
+*.war    filter=lfs diff=lfs merge=lfs binary
+*.ear    filter=lfs diff=lfs merge=lfs binary
+*.keystore filter=lfs diff=lfs merge=lfs binary
+*.dex    filter=lfs diff=lfs merge=lfs binary
+*.apk    filter=lfs diff=lfs merge=lfs binary
+*.dmg    filter=lfs diff=lfs merge=lfs binary
+*.aar    filter=lfs diff=lfs merge=lfs binary
+*.aab    filter=lfs diff=lfs merge=lfs binary
+
+# Other binaries
+*.bin    filter=lfs diff=lfs merge=lfs binary
+*.dat    filter=lfs diff=lfs merge=lfs binary
+*.data   filter=lfs diff=lfs merge=lfs binary
+*.pak    filter=lfs diff=lfs merge=lfs binary
+*.pack   filter=lfs diff=lfs merge=lfs binary
+*.nib    filter=lfs diff=lfs merge=lfs binary
+*.pyc    filter=lfs diff=lfs merge=lfs binary
+*.pyo    filter=lfs diff=lfs merge=lfs binary
+*.db     filter=lfs diff=lfs merge=lfs binary
+
+# Unity
+*.cubemap filter=lfs diff=lfs merge=lfs binary
+*.unityweb filter=lfs diff=lfs merge=lfs binary
+*.unitypackage filter=lfs diff=lfs merge=lfs binary
+*-[Tt]errain.asset filter=lfs diff=lfs merge=lfs binary
+*-[Nn]av[Mm]esh.asset filter=lfs diff=lfs merge=lfs binary
+**/StreamingAssets/AssetBundles/WebGL/** filter=lfs diff=lfs merge=lfs binary

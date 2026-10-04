@@ -1,0 +1,48 @@
+# --- OS ---
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+
+# --- Editors / IDEs ---
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+
+# --- Secrets (use Infisical, never commit) ---
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# --- AI tooling (local, per-user) ---
+.claude/settings.local.json
+CLAUDE.local.md
+
+# --- Logs / temp ---
+*.bak
+*.tmp
+*.temp
+*.pyc
+*.log
+logs/
+tmp/
+.cache/
+tmp-*
+
+# --- Build output ---
+dist/
+build/
+out/
+coverage/
+
+# --- Dependencies ---
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
